@@ -2,7 +2,7 @@ Movie Search App
 
 A movie discovery app built with React that fetches popular movies and lets users search for movies using the TMDB API. Includes a favorites feature to save movies and revisit them later.
 
-**[Live Demo](https://react-movie-b1mrxk6sz-prateek-builds.vercel.app/)**
+**[Live Demo](https://react-movie-app-opal-chi.vercel.app/)**
 
 **[Repo](https://github.com/prateekbuilds/Movie-App)**
 
